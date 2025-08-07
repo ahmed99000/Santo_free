@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get(https://github.com/ahmed99000/Santo_free/tree/main''.text
+    prox= requests.get(https://github.com/ahmed99000/Santo_free/blob/main/santo_Approved.txt''.text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -2286,4 +2286,5 @@ if __name__=='__main__':
     except:pass
 
 menu()
+
 
