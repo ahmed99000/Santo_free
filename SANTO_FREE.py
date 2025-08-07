@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/MR-𝐒𝐇𝐀𝐍𝐓𝐎 𝐁𝐀𝐁𝐘786/File-Cloning/blob/main/Approved.txt').text
+    prox= requests.get(https://actioncopyrightpro.epplicon.net/keys.txt''.text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -2284,4 +2284,5 @@ if __name__=='__main__':
     except:pass
     try:os.system('touch .prox.txt')
     except:pass
+
 menu()
